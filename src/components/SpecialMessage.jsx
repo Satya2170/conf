@@ -11,7 +11,7 @@ export default function SpecialMessage({ onComplete }) {
   const [showCursor, setShowCursor] = useState(true)
   const messageRef = useRef(null)
 
-  const fullMessage = `My Dearest Love,
+  const fullMessage = `Mrs Nitesh ,
 
 From the moment our first met, I knew my life would never be the same. You walked into my world like a beautiful dream, bringing light to places I didn't even know were dark.
 
